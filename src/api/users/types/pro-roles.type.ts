@@ -1,0 +1,4 @@
+export enum PRO_ROLE {
+  INDIVIDUAL = 'SELF-EMPLOYED',
+  COMPANY = 'COMPANY',
+}

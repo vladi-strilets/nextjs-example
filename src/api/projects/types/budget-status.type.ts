@@ -1,0 +1,5 @@
+export enum BUDGET_STATUS {
+  ACTIVE = 'ACTIVE',
+  FINISHED = 'FINISHED',
+  DECLINED = 'DECLINED',
+}
